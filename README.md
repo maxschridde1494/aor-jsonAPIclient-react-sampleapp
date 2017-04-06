@@ -1,1 +1,1 @@
-# aor-jsonAPIclient-react-sampleapp
+# aor-jsonAPIclient-reactJS-sampleapp
